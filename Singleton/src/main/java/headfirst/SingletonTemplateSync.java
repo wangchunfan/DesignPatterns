@@ -1,7 +1,8 @@
 package headfirst;
 
-import sun.security.jca.GetInstance;
-
+/**
+ * 同步方法方式
+ */
 public class SingletonTemplateSync {
 
     private static SingletonTemplateSync singletonTemplateSync;

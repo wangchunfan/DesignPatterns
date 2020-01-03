@@ -1,5 +1,8 @@
 package headfirst;
 
+/**
+ * 最简单的单例模式，线程不安全
+ */
 public class SingletonTemplate {
 
     /**

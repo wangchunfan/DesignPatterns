@@ -1,5 +1,9 @@
 package headfirst;
 
+/**
+ * 巧克力锅炉，添加牛奶和巧克力可以生产牛奶巧克力
+ * 巧克力锅炉需要实现单例模式，使用 jvm 类加载器实现单例
+ */
 public class ChocolateBoiler {
 
     private static ChocolateBoiler uniqueInstance;
