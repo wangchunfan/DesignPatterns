@@ -12,6 +12,7 @@
         <module>Factory</module>
         <module>Singleton</module>
         <module>Observer</module>
+        <module>Strategy</module>
     </modules>
 
     <properties>
