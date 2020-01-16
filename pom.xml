@@ -14,6 +14,7 @@
         <module>Observer</module>
         <module>Strategy</module>
         <module>Decotator</module>
+        <module>Command</module>
     </modules>
 
     <properties>

@@ -23,7 +23,7 @@
     - 解释器模式（Interpreter）
     - 模板方法模式（Template Method）
     - 责任链模式（Chain of Responsibility）
-    - 命令模式（Command）
+    - [命令模式（Command）](/Command)
     - 迭代器模式（Iterator）
     - 调解者模式（Mediator）
     - 备忘录模式（Memento）
