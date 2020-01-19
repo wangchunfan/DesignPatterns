@@ -16,6 +16,7 @@
         <module>Decotator</module>
         <module>Command</module>
         <module>Adapter</module>
+        <module>Facade</module>
     </modules>
 
     <properties>

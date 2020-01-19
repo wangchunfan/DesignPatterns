@@ -12,11 +12,11 @@
     - 原型模式（Prototype）
     - [单例模式(Singleton) ](/Singleton)
 - 结构型：
-    - 适配器模式(Adapter)
+    - [适配器模式(Adapter)](/Adapter)
     - 桥接模式（Bridge）
     - 组合模式（Composite）
     - [装饰者模式（Decorator）](/Decotator)
-    - 门面模式（Facade）
+    - [门面模式/外观模式（Facade）](/Facade)
     - 享元模式（Flyweight）
     - 代理模式（Proxy） 
 - 行为型：
@@ -46,3 +46,4 @@
 # 参考
 
 1. 《Head First 设计模式（中文版）》
+2. [设计模式|菜鸟教程](https://www.runoob.com/design-pattern/design-pattern-intro.html)
