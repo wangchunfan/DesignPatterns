@@ -8,7 +8,7 @@
 - 创建型：创建一个对象
     - [工厂方法模式（Factory Method）](/Factory)
     - [抽象工厂模式（Abstract Factory）](/Factory)
-    - 建造者模式（Builder）
+    - [建造者模式（Builder）](/Builder)
     - 原型模式（Prototype）
     - [单例模式(Singleton) ](/Singleton)
 - 结构型：

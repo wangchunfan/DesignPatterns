@@ -17,6 +17,7 @@
         <module>Command</module>
         <module>Adapter</module>
         <module>Facade</module>
+        <module>Builder</module>
     </modules>
 
     <properties>
