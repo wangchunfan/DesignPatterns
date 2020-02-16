@@ -6,30 +6,30 @@
 ## 设计模式分类
 
 - 创建型：创建一个对象
-    - [工厂方法模式（Factory Method）](/Factory)
-    - [抽象工厂模式（Abstract Factory）](/Factory)
-    - [建造者模式（Builder）](/Builder)
+    - [工厂方法模式（Factory Method）](/DesignPatterns-Factory)
+    - [抽象工厂模式（Abstract Factory）](/DesignPatterns-Factory)
+    - [建造者模式（Builder）](/DesignPatterns-Builder)
     - 原型模式（Prototype）
-    - [单例模式(Singleton) ](/Singleton)
+    - [单例模式(Singleton) ](/DesignPatterns-Singleton)
 - 结构型：
-    - [适配器模式(Adapter)](/Adapter)
+    - [适配器模式(Adapter)](/DesignPatterns-Adapter)
     - 桥接模式（Bridge）
     - 组合模式（Composite）
-    - [装饰者模式（Decorator）](/Decotator)
-    - [门面模式/外观模式（Facade）](/Facade)
+    - [装饰者模式（Decorator）](/DesignPatterns-Decorator)
+    - [门面模式/外观模式（Facade）](/DesignPatterns-Facade)
     - 享元模式（Flyweight）
     - 代理模式（Proxy） 
 - 行为型：
     - 解释器模式（Interpreter）
     - 模板方法模式（Template Method）
     - 责任链模式（Chain of Responsibility）
-    - [命令模式（Command）](/Command)
+    - [命令模式（Command）](/DesignPatterns-Command)
     - 迭代器模式（Iterator）
     - 调解者模式（Mediator）
     - 备忘录模式（Memento）
-    - [观察者模式（Observer）又称发布-订阅（Publish/Subscribe）模式](/Observer)
+    - [观察者模式（Observer）又称发布-订阅（Publish/Subscribe）模式](/DesignPatterns-Observer)
     - 状态模式（State）
-    - [策略模式（Strategy）](/Strategy)
+    - [策略模式（Strategy）](/DesignPatterns-Strategy)
     - 访问者模式（Visitor）
 
 ## 设计原则
