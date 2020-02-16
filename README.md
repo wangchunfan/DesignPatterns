@@ -21,7 +21,7 @@
     - 代理模式（Proxy） 
 - 行为型：
     - 解释器模式（Interpreter）
-    - 模板方法模式（Template Method）
+    - [模板方法模式（Template Method）](/DesignPatterns-TemplateMethod)
     - 责任链模式（Chain of Responsibility）
     - [命令模式（Command）](/DesignPatterns-Command)
     - 迭代器模式（Iterator）

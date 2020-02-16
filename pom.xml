@@ -18,6 +18,7 @@
         <module>DesignPatterns-Adapter</module>
         <module>DesignPatterns-Facade</module>
         <module>DesignPatterns-Builder</module>
+        <module>DesignPatterns-TemplateMethod</module>
     </modules>
 
     <properties>
