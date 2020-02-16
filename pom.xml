@@ -13,7 +13,7 @@
         <module>Singleton</module>
         <module>Observer</module>
         <module>Strategy</module>
-        <module>Decotator</module>
+        <module>Decorator</module>
         <module>Command</module>
         <module>Adapter</module>
         <module>Facade</module>
