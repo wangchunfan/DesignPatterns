@@ -14,7 +14,7 @@
 - 结构型：
     - [X] [适配器模式(Adapter)](/DesignPatterns-Adapter)
     - [ ] 桥接模式（Bridge）
-    - 组合模式（Composite）
+    - [X] [组合模式（Composite）](/DesignPatterns-Composite)
     - [X] [装饰者模式（Decorator）](/DesignPatterns-Decorator)
     - [X] [门面模式/外观模式（Facade）](/DesignPatterns-Facade)
     - [ ] 享元模式（Flyweight）

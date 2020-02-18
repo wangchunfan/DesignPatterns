@@ -20,6 +20,7 @@
         <module>DesignPatterns-Builder</module>
         <module>DesignPatterns-TemplateMethod</module>
         <module>DesignPatterns-Iterator</module>
+        <module>DesignPatterns-Composite</module>
     </modules>
 
     <properties>
