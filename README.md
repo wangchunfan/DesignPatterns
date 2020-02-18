@@ -6,31 +6,31 @@
 ## 设计模式分类
 
 - 创建型：创建一个对象
-    - [工厂方法模式（Factory Method）](/DesignPatterns-Factory)
-    - [抽象工厂模式（Abstract Factory）](/DesignPatterns-Factory)
-    - [建造者模式（Builder）](/DesignPatterns-Builder)
-    - 原型模式（Prototype）
-    - [单例模式(Singleton) ](/DesignPatterns-Singleton)
+    - [X] [工厂方法模式（Factory Method）](/DesignPatterns-Factory)
+    - [X] [抽象工厂模式（Abstract Factory）](/DesignPatterns-Factory)
+    - [X] [建造者模式（Builder）](/DesignPatterns-Builder)
+    - [ ] 原型模式（Prototype）
+    - [X] [单例模式(Singleton) ](/DesignPatterns-Singleton)
 - 结构型：
-    - [适配器模式(Adapter)](/DesignPatterns-Adapter)
-    - 桥接模式（Bridge）
+    - [X] [适配器模式(Adapter)](/DesignPatterns-Adapter)
+    - [ ] 桥接模式（Bridge）
     - 组合模式（Composite）
-    - [装饰者模式（Decorator）](/DesignPatterns-Decorator)
-    - [门面模式/外观模式（Facade）](/DesignPatterns-Facade)
-    - 享元模式（Flyweight）
-    - 代理模式（Proxy） 
+    - [X] [装饰者模式（Decorator）](/DesignPatterns-Decorator)
+    - [X] [门面模式/外观模式（Facade）](/DesignPatterns-Facade)
+    - [ ] 享元模式（Flyweight）
+    - [ ] 代理模式（Proxy） 
 - 行为型：
-    - 解释器模式（Interpreter）
-    - [模板方法模式（Template Method）](/DesignPatterns-TemplateMethod)
-    - 责任链模式（Chain of Responsibility）
-    - [命令模式（Command）](/DesignPatterns-Command)
-    - 迭代器模式（Iterator）
-    - 调解者模式（Mediator）
-    - 备忘录模式（Memento）
-    - [观察者模式（Observer）又称发布-订阅（Publish/Subscribe）模式](/DesignPatterns-Observer)
-    - 状态模式（State）
-    - [策略模式（Strategy）](/DesignPatterns-Strategy)
-    - 访问者模式（Visitor）
+    - [ ] 解释器模式（Interpreter）
+    - [X] [模板方法模式（Template Method）](/DesignPatterns-TemplateMethod)
+    - [ ] 责任链模式（Chain of Responsibility）
+    - [X] [命令模式（Command）](/DesignPatterns-Command)
+    - [X] [迭代器模式（Iterator）](/DesignPatterns-Iterator)
+    - [ ] 调解者模式（Mediator）
+    - [ ] 备忘录模式（Memento）
+    - [X] [观察者模式（Observer）又称发布-订阅（Publish/Subscribe）模式](/DesignPatterns-Observer)
+    - [ ] 状态模式（State）
+    - [X] [策略模式（Strategy）](/DesignPatterns-Strategy)
+    - [ ] 访问者模式（Visitor）
 
 ## 设计原则
 
