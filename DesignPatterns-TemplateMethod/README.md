@@ -1,4 +1,4 @@
-[TOC]
+# 模板方法
 
 [README 更新](http://note.youdao.com/noteshare?id=53132d0370da7daf253edc0bba1031e0&sub=1F2AF67C70AF49F1B8516C23BD29E262)
 
@@ -6,7 +6,7 @@
 
 设计模式：别找我，我会找你。父类去调用子类的方法，而不是让子类去调用父类的方法。
 
-# 案例
+## 案例
 
 步骤|咖啡的冲泡过程|茶的冲泡过程|模板方法
 --|--|--|--
@@ -72,7 +72,7 @@ public class TemplateMathodTest {
 //加糖和牛奶。。。
 ```
 
-# hook 钩子
+## hook 钩子
 
 hook()钩子，只有空的或者默认的实现，作用：
 
@@ -114,7 +114,7 @@ public class Template {
 }
 ```
     
-# Java 中的模板方法
+## Java 中的模板方法
 
 - 数组排序中的 compareTo() 方法
 - InputStream 中的 read() 方法
