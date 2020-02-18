@@ -19,9 +19,18 @@
         <module>DesignPatterns-Facade</module>
         <module>DesignPatterns-Builder</module>
         <module>DesignPatterns-TemplateMethod</module>
+        <module>DesignPatterns-Iterator</module>
     </modules>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
+
+    <dependencies>
+        <dependency>
+            <groupId>org.projectlombok</groupId>
+            <artifactId>lombok</artifactId>
+            <version>1.18.8</version>
+        </dependency>
+    </dependencies>
 </project>
