@@ -21,6 +21,7 @@
         <module>DesignPatterns-TemplateMethod</module>
         <module>DesignPatterns-Iterator</module>
         <module>DesignPatterns-Composite</module>
+        <module>DesignPatterns-State</module>
     </modules>
 
     <properties>
