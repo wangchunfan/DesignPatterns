@@ -22,6 +22,7 @@
         <module>DesignPatterns-Iterator</module>
         <module>DesignPatterns-Composite</module>
         <module>DesignPatterns-State</module>
+        <module>DesignPatterns-Proxy</module>
     </modules>
 
     <properties>

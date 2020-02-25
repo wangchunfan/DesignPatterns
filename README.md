@@ -18,7 +18,7 @@
     - [X] [装饰者模式（Decorator）](/DesignPatterns-Decorator)
     - [X] [门面模式/外观模式（Facade）](/DesignPatterns-Facade)
     - [ ] 享元模式（Flyweight）
-    - [ ] 代理模式（Proxy） 
+    - [X] [代理模式（Proxy）](/DesignPatterns-Proxy)
 - 行为型：
     - [ ] 解释器模式（Interpreter）
     - [X] [模板方法模式（Template Method）](/DesignPatterns-TemplateMethod)
@@ -28,7 +28,7 @@
     - [ ] 调解者模式（Mediator）
     - [ ] 备忘录模式（Memento）
     - [X] [观察者模式（Observer）又称发布-订阅（Publish/Subscribe）模式](/DesignPatterns-Observer)
-    - [ ] 状态模式（State）
+    - [X] [状态模式（State）](/DesignPatterns-State)
     - [X] [策略模式（Strategy）](/DesignPatterns-Strategy)
     - [ ] 访问者模式（Visitor）
 
