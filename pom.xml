@@ -23,6 +23,7 @@
         <module>DesignPatterns-Composite</module>
         <module>DesignPatterns-State</module>
         <module>DesignPatterns-Proxy</module>
+        <module>DesignPatterns-Compound</module>
     </modules>
 
     <properties>
