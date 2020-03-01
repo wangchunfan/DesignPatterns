@@ -24,6 +24,7 @@
         <module>DesignPatterns-State</module>
         <module>DesignPatterns-Proxy</module>
         <module>DesignPatterns-Compound</module>
+        <module>DesignPatterns-Bridge</module>
     </modules>
 
     <properties>

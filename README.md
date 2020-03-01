@@ -13,7 +13,7 @@
     - [X] [单例模式(Singleton) ](/DesignPatterns-Singleton)
 - 结构型：
     - [X] [适配器模式(Adapter)](/DesignPatterns-Adapter)
-    - [ ] 桥接模式（Bridge）
+    - [X] [桥接模式（Bridge）](/DesignPatterns-Bridge)
     - [X] [组合模式（Composite）](/DesignPatterns-Composite)
     - [X] [装饰者模式（Decorator）](/DesignPatterns-Decorator)
     - [X] [门面模式/外观模式（Facade）](/DesignPatterns-Facade)
@@ -31,7 +31,7 @@
     - [X] [状态模式（State）](/DesignPatterns-State)
     - [X] [策略模式（Strategy）](/DesignPatterns-Strategy)
     - [ ] 访问者模式（Visitor）
--[ ] 复合模式（Compound）
+-[X] [复合模式（Compound）](/DesignPatterns-Compound)
 ## 设计原则
 
 设计模式在应用中遵循六大原则：
@@ -47,3 +47,4 @@
 
 1. 《Head First 设计模式（中文版）》
 2. [设计模式|菜鸟教程](https://www.runoob.com/design-pattern/design-pattern-intro.html)
+3. 《大话设计模式》
