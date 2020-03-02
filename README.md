@@ -9,7 +9,7 @@
     - [X] [工厂方法模式（Factory Method）](/DesignPatterns-Factory)
     - [X] [抽象工厂模式（Abstract Factory）](/DesignPatterns-Factory)
     - [X] [建造者模式（Builder）](/DesignPatterns-Builder)
-    - [ ] 原型模式（Prototype）
+    - [X] [原型模式（Prototype）](/DesignPatterns-Prototype)
     - [X] [单例模式(Singleton) ](/DesignPatterns-Singleton)
 - 结构型：
     - [X] [适配器模式(Adapter)](/DesignPatterns-Adapter)

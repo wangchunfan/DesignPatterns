@@ -25,6 +25,7 @@
         <module>DesignPatterns-Proxy</module>
         <module>DesignPatterns-Compound</module>
         <module>DesignPatterns-Bridge</module>
+        <module>DesignPatterns-Prototype</module>
     </modules>
 
     <properties>
