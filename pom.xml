@@ -26,6 +26,8 @@
         <module>DesignPatterns-Compound</module>
         <module>DesignPatterns-Bridge</module>
         <module>DesignPatterns-Prototype</module>
+        <module>DesignPatterns-Flyweight</module>
+        <module>DesignPatterns-Interpreter</module>
     </modules>
 
     <properties>

@@ -17,10 +17,10 @@
     - [X] [组合模式（Composite）](/DesignPatterns-Composite)
     - [X] [装饰者模式（Decorator）](/DesignPatterns-Decorator)
     - [X] [门面模式/外观模式（Facade）](/DesignPatterns-Facade)
-    - [ ] 享元模式（Flyweight）
+    - [X] [享元模式（Flyweight）](/DesignPatterns-Flyweight)
     - [X] [代理模式（Proxy）](/DesignPatterns-Proxy)
 - 行为型：
-    - [ ] 解释器模式（Interpreter）
+    - [X] [解释器模式（Interpreter）](/DesignPatterns-Interpreter)
     - [X] [模板方法模式（Template Method）](/DesignPatterns-TemplateMethod)
     - [ ] 责任链模式（Chain of Responsibility）
     - [X] [命令模式（Command）](/DesignPatterns-Command)
@@ -48,3 +48,4 @@
 1. 《Head First 设计模式（中文版）》
 2. [设计模式|菜鸟教程](https://www.runoob.com/design-pattern/design-pattern-intro.html)
 3. 《大话设计模式》
+4. 《深入浅出设计模式》
