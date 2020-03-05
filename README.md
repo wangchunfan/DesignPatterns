@@ -22,7 +22,7 @@
 - 行为型：
     - [X] [解释器模式（Interpreter）](/DesignPatterns-Interpreter)
     - [X] [模板方法模式（Template Method）](/DesignPatterns-TemplateMethod)
-    - [ ] 责任链模式（Chain of Responsibility）
+    - [X] [责任链模式（Chain of Responsibility）](/DesignPatterns-ChainOfResponsibility)
     - [X] [命令模式（Command）](/DesignPatterns-Command)
     - [X] [迭代器模式（Iterator）](/DesignPatterns-Iterator)
     - [ ] 调解者模式（Mediator）
