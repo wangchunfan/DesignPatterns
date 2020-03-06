@@ -25,7 +25,7 @@
     - [X] [责任链模式（Chain of Responsibility）](/DesignPatterns-ChainOfResponsibility)
     - [X] [命令模式（Command）](/DesignPatterns-Command)
     - [X] [迭代器模式（Iterator）](/DesignPatterns-Iterator)
-    - [ ] 调解者模式（Mediator）
+    - [X] [中介者模式/调解者模式（Mediator）](/DesignPatterns-Mediator)
     - [ ] 备忘录模式（Memento）
     - [X] [观察者模式（Observer）又称发布-订阅（Publish/Subscribe）模式](/DesignPatterns-Observer)
     - [X] [状态模式（State）](/DesignPatterns-State)

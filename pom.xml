@@ -29,6 +29,7 @@
         <module>DesignPatterns-Flyweight</module>
         <module>DesignPatterns-Interpreter</module>
         <module>DesignPatterns-ChainOfResponsibility</module>
+        <module>DesignPatterns-Mediator</module>
     </modules>
 
     <properties>
