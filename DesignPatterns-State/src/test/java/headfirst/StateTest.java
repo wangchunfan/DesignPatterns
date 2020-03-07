@@ -11,3 +11,8 @@ public class StateTest {
         gumballMachine.insertQuarter();
     }
 }
+
+//没有投币，不能发放糖果
+//没有投币，不能转动转轴！
+//还没有投币，不能退币！
+//投币成功！

@@ -11,3 +11,10 @@ public class TurkeyAdapterTest {
         turkeyAdapter.fly();
     }
 }
+
+//MallardDuck Quack
+//MallardDuck flying
+//WildTurkdy Gobble
+//WildTurkdy fly...
+//WildTurkdy fly...
+

@@ -15,3 +15,5 @@ package headfirst;
             simpleRemoteControl.buttonWasPressed();
         }
     }
+
+// Light on

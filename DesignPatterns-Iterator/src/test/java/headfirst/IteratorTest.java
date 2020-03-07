@@ -22,3 +22,12 @@ public class IteratorTest {
         }
     }
 }
+
+//dinerMenu：
+//Vegetarian BLT -- 2.99 -- (Fakin') Bacon with lettuce & tomato on whole wheat
+//BLT -- 3.99 -- Bacon with lettuce & tomato on whole wheat
+//Soup of the day -- 3.29 -- Soup of the day, with aside of potato salad
+//Hotdog -- 3.05 -- A hot dog, with saurkraut, relish, onions, topped with cheese
+//pancakeHouseMenu：
+//K$B' Pancake Breakfast -- 2.99 -- Pancakes with scrambled eggs, and toast
+//Regular Pancake Breakfast -- 3.99 -- Pancakes with fried eggs, sausage
