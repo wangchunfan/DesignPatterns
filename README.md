@@ -26,11 +26,11 @@
     - [X] [命令模式（Command）](/DesignPatterns-Command)
     - [X] [迭代器模式（Iterator）](/DesignPatterns-Iterator)
     - [X] [中介者模式/调解者模式（Mediator）](/DesignPatterns-Mediator)
-    - [ ] 备忘录模式（Memento）
+    - [X] [备忘录模式（Memento）](/DesignPatterns-Memento)
     - [X] [观察者模式（Observer）又称发布-订阅（Publish/Subscribe）模式](/DesignPatterns-Observer)
     - [X] [状态模式（State）](/DesignPatterns-State)
     - [X] [策略模式（Strategy）](/DesignPatterns-Strategy)
-    - [ ] 访问者模式（Visitor）
+    - [X] [访问者模式（Visitor）](/DesignPatterns-Visitor)
 -[X] [复合模式（Compound）](/DesignPatterns-Compound)
 ## 设计原则
 

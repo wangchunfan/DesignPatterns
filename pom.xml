@@ -30,6 +30,8 @@
         <module>DesignPatterns-Interpreter</module>
         <module>DesignPatterns-ChainOfResponsibility</module>
         <module>DesignPatterns-Mediator</module>
+        <module>DesignPatterns-Memento</module>
+        <module>DesignPatterns-Visitor</module>
     </modules>
 
     <properties>
