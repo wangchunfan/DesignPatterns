@@ -31,7 +31,8 @@
     - [X] [状态模式（State）](/DesignPatterns-State)
     - [X] [策略模式（Strategy）](/DesignPatterns-Strategy)
     - [X] [访问者模式（Visitor）](/DesignPatterns-Visitor)
--[X] [复合模式（Compound）](/DesignPatterns-Compound)
+- [X] [复合模式（Compound）](/DesignPatterns-Compound)
+
 ## 设计原则
 
 设计模式在应用中遵循六大原则：
